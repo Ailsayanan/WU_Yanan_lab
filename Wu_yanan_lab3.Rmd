@@ -1,7 +1,10 @@
 ---
 title: "R Notebook"
 author: "Wu Yanan"
-output: html_notebook
+output: 
+  html_notebook:
+    toc: TRUE
+    toc_float: TRUE
 ---
 This is lab3.
 
